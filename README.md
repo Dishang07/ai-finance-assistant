@@ -1,8 +1,5 @@
-🏦 AI Finance Assistant
+#🏦 AI Finance Assistant
 AI Finance Assistant is a Python-based web application that leverages AI to help users manage their finances. It provides real-time financial insights, expense tracking, and investment analysis, making financial decision-making easier and smarter.
-
-🔗 Live Demo
-🌐 AI Finance Assistant
 
 🏗 Tech Stack
 Backend: Python, Node.js, Express.js
