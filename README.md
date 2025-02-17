@@ -4,7 +4,7 @@ AI Finance Assistant is a Python-based web application that leverages **AI** to 
 ---
 
 ## 🏗 Tech Stack  
-- **Backend:** Python, Node.js, Express.js  
+- **Backend:** Node.js, Express.js  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **NLP & AI:** Gemini AI  
 - **Deployment:** Vercel  
