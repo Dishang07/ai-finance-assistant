@@ -1,4 +1,3 @@
-Here’s a more creative and engaging `README.md` for your AI Finance Assistant project, featuring vivid language, emojis, and your live demo link:
 
 ***
 
