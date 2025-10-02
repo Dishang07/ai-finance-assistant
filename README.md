@@ -8,10 +8,10 @@
 
 ***
 
-## ⚡️ [Live Demo](https://ai-finance-assistant-1.onrender.com/)
+## ⚡️ [Live Demo](https://ai-finance-assistant-1.onrender.com)
 
 Jump right in and explore your financial future:  
-[https://ai-finance-assistant-1.onrender.com/](https://ai-finance-assistant-1.onrender.com/) 
+[https://ai-finance-assistant-1.onrender.com](https://ai-finance-assistant-1.onrender.com) 
 
 ***
 
@@ -30,13 +30,13 @@ Built with the latest technologies for speed, intelligence, and reliability:
 
 Become a financial whiz with powerful, user-friendly features:
 
-- ✅ **📊 AI-Powered Investment Education:**  
+- **📊 AI-Powered Investment Education:**  
   Unlock smart strategies and learn to grow your wealth.
 
-- ✅ **💡 Personalized Investment Suggestions:**  
+- **💡 Personalized Investment Suggestions:**  
   Get tailored recommendations based on your financial profile.
 
-- ✅ **📈 Best Investment Methods:**  
+- **📈 Best Investment Methods:**  
   Discover the strengths and risks of major asset classes—boost your decision-making genius!
 
 
